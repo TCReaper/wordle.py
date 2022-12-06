@@ -5,7 +5,7 @@ import tkinter as tk
 # write the new window function which
 # will be called when button pressed
 
-thanks = "\n\n\nthanks for playing our game!\n\ncode by kelly, siti, andrea, priyanka, and srijana"
+thanks = "\n\n\nthanks for playing my game!\n\ncode by reaPYre"
 
 class Credits(config.BaseClass):
     def __init__(self): 
