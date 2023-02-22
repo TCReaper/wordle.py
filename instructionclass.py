@@ -62,7 +62,7 @@ class Instructions(config.BaseClass):
         quit_button = tk.Button(self, text="go back", font=(
             self.font_used, 30), bg=self.bg, fg=self.fg,
             command=self.go_back)
-        quit_button.pack(pady=30)
+        quit_button.pack(pady=0)
 
     def row_buttons(self,word,gf):
         for col in range(5):
